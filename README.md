@@ -36,9 +36,11 @@ Python | Pandas | SQL | SQLite | Power BI
 - Q4 is the dominant quarter every year — Technology leads peak demand
 
 ## Dashboard Screenshots
-### Page 1:- Executive Summary
+### Page 1 :- Executive Summary
 <img width="1316" height="741" alt="image" src="https://github.com/user-attachments/assets/275ed854-7135-4882-90d2-286aea276c6a" />
-### Page 2:- Profitability Analysis
+
+### Page 2 :- Profitability Analysis
 <img width="1309" height="738" alt="image" src="https://github.com/user-attachments/assets/1382fd72-452d-48b3-91ae-baa25cbd9005" />
-### Page 3:- Seasonal Trends
+
+### Page 3 :- Seasonal Trends
 <img width="1308" height="733" alt="image" src="https://github.com/user-attachments/assets/28a92ebe-2183-406a-8784-ff856e253fe7" />
